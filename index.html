@@ -1,16 +1,33 @@
+<!DOCTYPE html>dd
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Button Example</title>
-    <script type="module">
-        console.log("Hi");
-        // import { Client, Account } from "appwrite";
-        console.log("hello");
-    </script>
+    <title>Appwrite Example</title>
+    <script src="https://cdn.jsdelivr.net/npm/appwrite@13.0.1"></script>
 </head>
 <body>
-    <h1>Button Example</h1>
+    <h1>Appwrite Example</h1>   
+
     <button id="myButton">Click me!</button>
+
+    <script>
+        // Appwrite library is now available globally
+        const client = new Appwrite.Client()
+            .setEndpoint("https://cloud.appwrite.io/v1") // Your API Endpoint
+            .setProject("65acb95d72ef0e82a76c");
+
+        const account = new Appwrite.Account(client);
+
+        function signin() {
+            account.createOAuth2Session("google");
+            // Additional code for handling the button click
+        }
+
+        // Attach the signin function to the button click event
+        var btn = document.getElementById("myButton");
+        btn.addEventListener("click", signin);
+    </script>
 </body>
 </html>
+
