@@ -86,12 +86,8 @@ FileChat gives life to your uploaded documents, aiming to provide you seemless e
 * make a tedious job like document study into a game of QnA
 * Not worry about the length of the document just start playing with it :smile:
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
 
-Use the `BLANK_README.md` to get started.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+It is completely based on LLMs and Langchain for its AI implementation to make your lives simpler, now lets look into what all was used to make it stand tall
 
 
 ### Built With
