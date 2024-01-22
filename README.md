@@ -18,10 +18,7 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
+
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
@@ -92,7 +89,7 @@ It is completely based on LLMs and Langchain for its AI implementation to make y
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+The webservice was built with mainly the following Frameworks/Libraries at the core of it keeping it alive
 
 * [![Flask][Flask]][Flask-url]
 * [![Langchain][Langchain]][Langchain-url]
