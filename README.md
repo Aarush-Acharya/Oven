@@ -22,8 +22,6 @@
 [![MIT License][license-shield]][license-url]
 
 
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -59,7 +57,6 @@ A LLM based QnA platform answering questions on provided Documents
     <li><a href="#usage">Usage</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
 
