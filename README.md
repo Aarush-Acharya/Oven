@@ -184,7 +184,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [Flask-url]: https://devdocs.io/html/](https://flask.palletsprojects.com/en/3.0.x/
 [OpenAI]: https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white
 [OpenAI-url]: https://openai.com/
-[Langchain]: https://img.shields.io/badge/Langchain-04AF70-%?style=fot-the-badge
+[Langchain]: https://img.shields.io/badge/Langchain-04AF70
 [Langchain-url]: https://openai.com/](https://www.langchain.com
 [HTML]: https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white
 [HTML-url]: https://devdocs.io/html/
