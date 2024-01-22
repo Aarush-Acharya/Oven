@@ -56,7 +56,6 @@ A LLM based QnA platform answering questions on provided Documents
       </ul>
     </li>
     <li><a href="#getting-started">Getting Started</a></li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
   </ol>
@@ -123,6 +122,7 @@ _Lets first get on with getting our OpenAI API key for the OpenAI LLM model bein
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 ## Contributing
