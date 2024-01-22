@@ -19,8 +19,8 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
+
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
@@ -113,7 +113,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+_Lets first get on with getting our OpenAI API key for the OpenAI LLM model being used at the core end of the QAchain._
 
 1. Get a free API Key at [https://platform.openai.com/api-keys](https://platform.openai.com/api-keys)
 2. Clone the repo
