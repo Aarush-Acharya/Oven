@@ -9,7 +9,6 @@
 -->
 
 
-
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
@@ -19,8 +18,11 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-[![MIT License][license-shield]][license-url]
+<div align="center">
 
+  <a href="">[![MIT License][license-shield]][license-url]</a>
+
+</div>
 
 <!-- PROJECT LOGO -->
 <br />
@@ -42,7 +44,6 @@ A LLM based QnA platform answering questions on provided Documents
 </div>
 
 
-
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -60,7 +61,6 @@ A LLM based QnA platform answering questions on provided Documents
     <li><a href="#license">License</a></li>
   </ol>
 </details>
-
 
 
 <!-- ABOUT THE PROJECT -->
@@ -94,7 +94,6 @@ The webservice was built with mainly the following Frameworks/Libraries at the c
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
 <!-- GETTING STARTED -->
 ## Getting Started
 
@@ -123,8 +122,7 @@ _Lets first get on with getting our OpenAI API key for the OpenAI LLM model bein
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
+<!-- CONTRIBUTING -->
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -142,24 +140,12 @@ Don't forget to give the project a star! Thanks again!
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
-
-
-
-
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-
-
-
-
 
 
 
@@ -182,4 +168,3 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [CSS-url]: https://devdocs.io/css/
 [Python]: https://camo.githubusercontent.com/7f18b6c771d2b7542625d2af294cb5ff95007dd959d261cdb736d43561856e52/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3336373041303f7374796c653d666c6174266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534
 [Python-url]: https://docs.python.org/3/
-
