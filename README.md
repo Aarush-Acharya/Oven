@@ -94,6 +94,9 @@ It is completely based on LLMs and Langchain for its AI implementation to make y
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
+* [![Flask][Flask]][Flask-url]
+* [![Langchain][Langchain]][Langchain-url]
+* [![OpenAI][OpenAI]][OpenAI-url]
 * [![Javascript][Javascript]][Javascript-url]
 * [![HTML][HTML]][HTML-url]
 * [![CSS][CSS]][CSS-url]
@@ -177,6 +180,12 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [product-screenshot]: readme-images/screenshot.png
 [Javascript]: https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
 [Javascript-url]: [https://nextjs.org/](https://devdocs.io/javascript/)
+[Flask]: https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white
+[Flask-url]: https://devdocs.io/html/](https://flask.palletsprojects.com/en/3.0.x/
+[OpenAI]: https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white
+[OpenAI-url]: https://openai.com/
+[Langchain]: https://img.shields.io/badge/Langchain-04AF70-%?style=fot-the-badge
+[Langchain-url]: https://openai.com/](https://www.langchain.com
 [HTML]: https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white
 [HTML-url]: https://devdocs.io/html/
 [CSS]: https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white
